@@ -29,7 +29,7 @@ This Power BI dashboard analyzes survey responses from data professionals to unc
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Files
 
