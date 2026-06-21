@@ -34,7 +34,7 @@ This Power BI dashboard analyzes survey responses from data professionals to unc
 ## Files
 
 * Project Survey.pdf → Dashboard Export
-* Dataset → Survey dataset (optional)
+* Dataset → Survey dataset
 
 ## Author
 
